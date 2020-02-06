@@ -1,0 +1,41 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="vselfa.examenfebrer2018.MainActivity">
+    <item
+        android:id="@+id/home"
+        android:orderInCategory="100"
+        android:title="@string/home"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/part1"
+        android:orderInCategory="100"
+        android:title="@string/part1"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/part2"
+        android:orderInCategory="100"
+        android:title="@string/part2"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/part3"
+        android:orderInCategory="100"
+        android:title="@string/part3"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/part4"
+        android:orderInCategory="100"
+        android:title="@string/part4"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/billar"
+        android:orderInCategory="100"
+        android:title="@string/billar"
+        app:showAsAction="never" />
+
+</menu>
